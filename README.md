@@ -1,4 +1,4 @@
-Скопируйте `UriBlobUtils.java` в пакет вашего проекта Android Studio.
+Скопируйте `DecoderJava.java` в пакет вашего проекта Android Studio.
 
 ## Пример использования
 
